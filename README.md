@@ -4,7 +4,7 @@
 
 SmartAssist Pro is a comprehensive AI-powered platform built using Python and Streamlit. It combines multiple intelligent tools into a single application, helping users analyze documents, improve resumes, interact with AI, and visualize data through interactive dashboards.
 
-🌐 Live Demo: YOUR_HUGGING_FACE_LINK
+🌐 Live Demo: https://huggingface.co/spaces/Bandana17/SmartAssistPro
 
 ---
 
