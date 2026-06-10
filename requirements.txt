@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pandas
+numpy
+matplotlib
+plotly
+PyPDF2
+python-docx
+joblib
+scikit-learn
